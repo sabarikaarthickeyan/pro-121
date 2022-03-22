@@ -1,0 +1,23 @@
+.test_image_and_resuly{
+    background-color: gray;
+    border-radius: 50px;
+    box-shadow:5px 5px 5px grey;
+}
+.mini_result{
+    margin-right: 500px;
+}
+.mobile{
+    margin-top: 10px;
+    margin-right: 0px;
+    
+}
+#goo{
+    color: red;
+}
+#mob{
+    color: red;
+}
+#win{
+   font-family: 'Courier New', Courier, monospace; 
+   white-space: pre-line;
+}
